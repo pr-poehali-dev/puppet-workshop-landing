@@ -34,6 +34,13 @@ const Index = () => {
       description: "Изящная героиня сказочных историй",
       image: "https://cdn.poehali.dev/projects/bd0ff140-0317-464a-aa49-d99b05b8d046/files/4f86a375-2f4f-4f78-b671-7a78f742e9c9.jpg",
       details: "Берёза, бархат, золотые нити"
+    },
+    {
+      id: 5,
+      name: "Военный офицер",
+      description: "Доблестный страж порядка и дисциплины",
+      image: "https://cdn.poehali.dev/projects/bd0ff140-0317-464a-aa49-d99b05b8d046/files/e5b64b09-b537-41cf-9074-0a810bdcfbff.jpg",
+      details: "Дерево, текстиль, авторская роспись"
     }
   ];
 
