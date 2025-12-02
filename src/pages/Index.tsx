@@ -11,28 +11,28 @@ const Index = () => {
       id: 1,
       name: "Арлекин",
       description: "Традиционный персонаж комедии дель арте",
-      image: "https://cdn.poehali.dev/projects/bd0ff140-0317-464a-aa49-d99b05b8d046/files/51b7d868-e80a-43dd-a77f-785c7d43ed8f.jpg",
+      image: "https://cdn.poehali.dev/projects/bd0ff140-0317-464a-aa49-d99b05b8d046/files/963273d3-ce6b-4b23-ab1e-397fc8e38363.jpg",
       details: "Ручная роспись, дубовое дерево, шёлковые нити"
     },
     {
       id: 2,
       name: "Лесная фея",
       description: "Волшебное создание из старинной сказки",
-      image: "https://cdn.poehali.dev/projects/bd0ff140-0317-464a-aa49-d99b05b8d046/files/1af19c22-8645-4775-af20-5e2f6b7a6536.jpg",
+      image: "https://cdn.poehali.dev/projects/bd0ff140-0317-464a-aa49-d99b05b8d046/files/04f09f61-cb7e-4eb6-870b-0e7da8cabde9.jpg",
       details: "Кедр, натуральные ткани, бисер"
     },
     {
       id: 3,
       name: "Старый мудрец",
       description: "Хранитель древних знаний и историй",
-      image: "/placeholder.svg",
+      image: "https://cdn.poehali.dev/projects/bd0ff140-0317-464a-aa49-d99b05b8d046/files/cf21129a-272a-4397-9fc1-2e261fce76c7.jpg",
       details: "Липа, натуральная шерсть, металлическая фурнитура"
     },
     {
       id: 4,
       name: "Принцесса",
       description: "Изящная героиня сказочных историй",
-      image: "/placeholder.svg",
+      image: "https://cdn.poehali.dev/projects/bd0ff140-0317-464a-aa49-d99b05b8d046/files/4f86a375-2f4f-4f78-b671-7a78f742e9c9.jpg",
       details: "Берёза, бархат, золотые нити"
     }
   ];
